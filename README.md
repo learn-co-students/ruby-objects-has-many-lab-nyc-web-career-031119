@@ -19,7 +19,7 @@ Because of the has many/belongs to relationship between your classes, the
 the `Song` class and vice versa. The same is true of the tests for the `Author`
 and `Post` classes. So, as you proceed through solving this lab, you will go
 back and forth between coding in `Artist` and `Song` and between coding in
-`Author` and `Post`.
+`Author` and `Post`. 
 
 We recommend starting out by getting some of the initial `Artist` tests passing
 and switching to write code in the `Song` class as directed by the test output.
